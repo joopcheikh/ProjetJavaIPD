@@ -2,6 +2,6 @@
 .gitignore
 .idea
 *.iml
-src/
-pom.xml
-README.md
+target/
+*.war
+.DS_Store
